@@ -1,4 +1,4 @@
-# ORM (ExpressJS & Sequelize)
+# Mini Challenge 6 Part 1 - ORM (ExpressJS & Sequelize)
 
 Di challenge kali ini kita akan membuat API dengan express & ORM Sequelize.
 
